@@ -6,7 +6,7 @@
   </template>
   
   <script setup>
-
+    const name = 'John Doe';
   </script>
   
   <style scoped>
