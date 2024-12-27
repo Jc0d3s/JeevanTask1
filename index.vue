@@ -8,6 +8,8 @@
   <script setup>
     const name = 'John Doe';
     const age = 25;
+    const email = 'john.doe@example.com';
+    const hobbies = ['reading', 'traveling', 'coding'];
   </script>
   
   <style scoped>
