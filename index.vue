@@ -10,6 +10,10 @@
     const age = 25;
     const email = 'john.doe@example.com';
     const hobbies = ['reading', 'traveling', 'coding'];
+    const isStudent = true;
+    const isTeacher = false;
+    const isAdmin = true;
+    const isUser = false;
   </script>
   
   <style scoped>
