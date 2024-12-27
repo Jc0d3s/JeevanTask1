@@ -7,6 +7,7 @@
   
   <script setup>
     const name = 'John Doe';
+    const age = 25;
   </script>
   
   <style scoped>
